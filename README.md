@@ -9,7 +9,6 @@ Clone the repository:
 git clone https://github.com/usmanali18feb/FSG-Test-suite.git
 
 Install dependencies:
-cd <repository-folder>
 npm install
 
 ## Running Tests
